@@ -1,1 +1,2 @@
-# Coursera-project-3
+# Waze Project¶
+Course 3 - Go Beyond the Numbers: Translate Data into Insights
